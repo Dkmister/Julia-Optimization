@@ -9,9 +9,9 @@ You will need to have Evolutionary and GeneticAlgorithms installed.
 
 You'd better do the following commands on Julia:
 
-```Pkg.clone(git://github.com/wildart/Evolutionary.jl) ```
+```Pkg.clone("git://github.com/wildart/Evolutionary.jl") ```
 
-```Pkg.clone(git://github.com/WestleyArgentum/GeneticAlgorithms.jl) ```
+```Pkg.clone("git://github.com/WestleyArgentum/GeneticAlgorithms.jl") ```
 
 # How to run the programs
 
